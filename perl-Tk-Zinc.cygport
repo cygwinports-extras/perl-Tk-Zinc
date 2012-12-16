@@ -1,0 +1,13 @@
+CPAN_AUTHOR="zincdev"
+ORIG_PN="tk-zinc"
+inherit perl
+
+NAME="perl-Tk-Zinc"
+VERSION=3.303
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Alternative Canvas model for Perl/Tk"
+DESCRIPTION="Tkzinc has been developped at CENA to help building experimental
+user interfaces for Air Traffic Control. Tkzinc is a Tk widget, with Tcl,
+Perl/Tk, and Python/Tkinter bindings."
+HOMEPAGE="http://tkzinc.org/"
